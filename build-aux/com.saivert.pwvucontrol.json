@@ -54,7 +54,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "tag": "0.5.12",
+                    "tag": "0.5.9",
                     "url": "https://github.com/PipeWire/wireplumber.git"
                 }
             ]
